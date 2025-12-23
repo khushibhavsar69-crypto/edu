@@ -1,0 +1,7 @@
+{
+  "name": "EduGlide Global - Visa & Education Consultants",
+  "description": "A premium, modern web application for foreign education and visa consultancy, featuring an AI-powered academic advisor.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
